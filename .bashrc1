@@ -1,0 +1,11 @@
+#!/bin/bash
+set colorscheme murphy
+
+alias sf='screenfetch'
+alias nf='neofetch'
+alias vm='vim ~/Documents/NEW'
+alias rn='ranger'
+alias fm='pcmanfm'
+alias vf='vifm'
+alias qt='qutebrowser'
+alias la='ls -alhi'
